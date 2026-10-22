@@ -2,7 +2,7 @@
 
 從三疊紀的蛋殼裡跑出來，一路跑過兩億五千萬年的像素恐龍跑酷遊戲。分數越高，恐龍會進化成新的型態並解鎖新能力。
 
-**線上遊玩：** https://stwater20.github.io/evo-runner/
+**線上遊玩：** https://evo.sectools.tw/
 
 ## 進化路線
 
